@@ -1,0 +1,1 @@
+编译产生的是native code, 所以运行测试时请输入 ./f.native test.f
